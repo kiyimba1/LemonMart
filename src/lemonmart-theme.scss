@@ -12,8 +12,8 @@
 // Define the palettes for your theme using the Material Design palettes available in palette.scss
 // (imported above). For each palette, you can optionally specify a default, lighter, and darker
 // hue. Available color palettes: https://material.io/design/color/
-$lemon-mart-primary: mat-palette($mat-indigo);
-$lemon-mart-accent: mat-palette($mat-pink, A200, A100, A400);
+$lemon-mart-primary: mat-palette($mat-green, 800);
+$lemon-mart-accent: mat-palette($mat-lime, A400);
 
 // The warn palette is optional (defaults to red).
 $lemon-mart-warn: mat-palette($mat-red);
